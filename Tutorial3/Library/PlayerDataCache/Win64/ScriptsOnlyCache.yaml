@@ -848,4 +848,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/Tutorial3.unity
-  playerPath: D:/Documents/Unity Projects/Tutorial3/Build/Tutorial3.exe
+  playerPath: D:/Documents/Githubs/Tutorial-3/Tutorial3/Build/Tutorial3.exe
